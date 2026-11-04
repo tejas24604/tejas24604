@@ -10,9 +10,31 @@
 </p>
 
 ## 🚀 About Me
-- 🔭 Working on: **Exciting new projects**
-- 🌱 Learning: **Web development and open source**
-- ⚡ Fun fact: **I turn coffee into code**
+Hi, I'm Tejas Jadhav 👋
+
+🎓 I'm an Electronics and Computer Engineering Student passionate about technology, programming, and software development.
+
+💻 I enjoy building modern, responsive, and user-friendly web applications as a Full Stack Developer.
+
+🌱 Currently exploring new technologies, improving my development skills, and learning more about open-source contributions.
+
+💡 What I'm Doing
+
+🔭 Working on exciting web development projects.
+
+🌱 Learning Full Stack Development and exploring new technologies.
+
+💻 Building projects using HTML, CSS, JavaScript, TypeScript, React.js, and Node.js.
+
+🤝 Interested in collaborating on innovative projects.
+
+🎯 Focused on improving my problem-solving and coding skills.
+
+⚡ Fun Fact
+
+I believe every great project starts with a simple idea and a lot of curiosity! 🚀
+
+Let's connect, collaborate, and build something amazing together!
 
 ## 🛠 Tech Stack
 <p>
